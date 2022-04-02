@@ -26,6 +26,6 @@ If you're interested in seeing more of my work then check out my [portfolio](htt
 If you'd like to contact me my email is dwhipp88@gmail.com.
 
 ## Badges
-![logo test](?style=css3=appveyor)
+![logo test](?logo=data:./public/assets/images/css3.svg)
 ![javascript](https://img.shields.io/badge/language-javascript-darkblue)
 ![express](https://img.shields.io/badge/express-4.17.1-darkblue)
