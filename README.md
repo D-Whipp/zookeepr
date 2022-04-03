@@ -22,8 +22,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Author
 
 Hello! My name is David.<br>
-Email is dwhipp88@gmail.com.
-(LinkedIn)[https://www.linkedin.com/in/david-w-079841213/]
+Email is dwhipp88@gmail.com. <br>
+[LinkedIn](https://www.linkedin.com/in/david-w-079841213/) <br>
 If you're interested in seeing more of my work then check out my [portfolio](http://mighty-brook-32674.herokuapp.com/) or you can view my [github](https://github.com/D-Whipp).<br>
 
 ## Badges
