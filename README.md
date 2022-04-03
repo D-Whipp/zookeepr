@@ -6,7 +6,20 @@
 Zoo Keepr is a Web App that allows it's users to keep track of both the animal's in the Zoo and the Zookeeper's who work there. 
 
 ## Table of Contents
+
+- [Usage](#usage)
+- [License](#license)
+- [Author](#author)
+- [Badges](#badges)
+
 ## Usage
+
+To usage Zoo Keepr simply click [here](https://serene-fjord-25238.herokuapp.com/) and you'll be taken to the web page where you can: <b>
+- Enter the animal's information
+or
+- Enter the Zookeeper's information
+You also have the option to view either the animal's catalog or the zookeeper's catalog.
+
 ## License
 
 MIT License
